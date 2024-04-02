@@ -1,0 +1,425 @@
+
+
+.container {
+    display: flex;
+    flex-direction: row;
+    width: 899px;
+    box-sizing: border-box;
+  }
+
+  .frame-33 {
+    margin: 0 0.8px 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 424.2px;
+    box-sizing: border-box;
+  }
+ 
+ 
+
+  .vector-5 {
+    background: #003E81;
+    margin: 8px 31px 3px -4px;
+    width: 1.5px;
+    height: 470px;
+  }
+  .frame-39 {
+    border-radius: 16px;
+    background: #C3DEFD;
+    margin: 0 15px 25px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px 20.8px 10px 20px;
+    box-sizing: border-box;
+  }
+  .slt-bill-quick-pay {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 30px;
+    color: #003E81;
+  }
+  .frame-56 {
+    margin: 0 40px 1px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 393.8px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .account-details {
+    margin-bottom: 47px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 393.8px;
+    box-sizing: border-box;
+  }
+  .sltmobitel-900-x-02 {
+    margin: 0 0 49px 0.2px;
+    width: 231px;
+    height: 93px;
+  }
+  
+  
+  
+  .frame-50 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 393.8px;
+    box-sizing: border-box;
+  }
+  .frame-19 {
+    margin: 0 1.4px 49px 0;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+ 
+
+  .frame-37 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 393.8px;
+    box-sizing: border-box;
+  }
+  .frame-22 {
+    margin: 0 0.8px 6px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 393.1px;
+    box-sizing: border-box;
+  }
+ 
+  .frame-23 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 393.8px;
+    box-sizing: border-box;
+  }
+ 
+  .frame-51 {
+    margin-left: 0.2px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 233.3px;
+    box-sizing: border-box;
+  }
+  
+  
+  .bill-payment-final {
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 54px 0 55px 1px;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+
+  .frame-29 {
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 425px;
+    box-sizing: border-box;
+  }
+  .frame-26 {
+    margin: 0 0.4px 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 424.6px;
+    box-sizing: border-box;
+  }
+ 
+  .frame-27 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 425px;
+    box-sizing: border-box;
+  }
+
+
+  
+  .frame-25 {
+    border-radius: 27px;
+    background: #003E81;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 14px 0.1px 14px 0;
+    width: 154px;
+    box-sizing: border-box;
+  }
+  
+ 
+ 
+  .frame-32 {
+    margin: 0 0.1px 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 424.8px;
+    box-sizing: border-box;
+  }
+  .frame-58 {
+    margin: 0 3px 18px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 425px;
+    box-sizing: border-box;
+  }
+
+  .container-38 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 428px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-39 {
+    border-radius: 40px;
+    border: 3px solid #003E81;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 22px 28px 30px 44px;
+    width: 960px;
+    height: 628px;
+    box-sizing: border-box;
+  }
+  .frame-59 {
+    border-radius: 27px;
+    background: #52B14A;
+    display: flex;
+    flex-direction: row;
+    padding: 14px 0;
+    width: 154px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+ 
+  .stroke-1 {
+    width: 14px;
+    height: 7px;
+  }
+  
+ 
+  label {
+    color: #003E81;
+    font-weight: bold;
+    font-family: 'Poppins';
+    font-size: 14px;
+  }
+  input[type="text"] {
+    border: 2px solid  #003E81;; 
+    border-radius: 5px;
+    padding: 8px;
+    width: 400px;
+    
+  }
+  
+  input[type="text"]:focus {
+    border-color: green;
+    outline: none; /* Remove the default focus outline */
+  }
+  
+  input[type="submit"] {
+    background-color:  #52B14A;
+    color: white; 
+    font-family:'Poppins';
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer;
+  
+  }
+  
+  /* Change background color of submit button on hover */
+  input[type="submit"]:hover {
+    background-color: darkgreen; /* Darken the background color on hover */
+  }
+  .frame-wrapper {
+    border: 2px solid #003E81;
+    border-radius: 10px;
+    padding: 20px;
+    width:425px;
+    position: relative;
+    z-index: 2;
+  }
+  
+  .frame-29 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .frame-26, .frame-27 {
+    margin-bottom: 15px;
+  }
+  /* Inside your CSS file */
+  .image {
+    margin-top: 20px; 
+  }
+  
+ 
+
+  
+
+  .payment-header,
+  .payment-info {
+    margin: 0; /* Set margin to 0 for both elements */
+    margin-left: 1cm;
+  }
+  
+  .payment-header {
+    font-size: 15px; /* Change the font size as needed */
+    color: #003E81; /* Change the color as needed */
+    font-family: 'Poppins';
+  }
+  
+  .payment-info {
+    font-size: 15px; /* Change the font size as needed */
+    color: #003E81; /* Change the color as needed */
+    font-family: 'Poppins';
+  }
+  .frame-60 {
+    position: relative;
+    z-index: 1;
+  }
+  
+  .frame-60::before {
+    content: "";
+    position: absolute;
+    bottom: 10.65cm;
+    left: -0.5cm; /* Increase the left offset by 0.5 cm */
+    width: calc(100% + 1cm); /* Increase the width by 1 cm */
+    height: 2cm; /* Keep the height of the green rectangle */
+    background: #52B14A; /* Set the background color directly */
+    border-radius: 10px 10px 0 0; /* Rounded corners for the upper part */
+  }
+  
+  .frame-60::after {
+    content: "";
+    position: absolute;
+    top: 10cm;
+    left: -0.5cm; /* Increase the left offset by 0.5 cm */
+    width: calc(100% + 1cm); /* Increase the width by 1 cm */
+    height: 2cm; /* Keep the height of the green rectangle */
+    border-radius: 10px 10px 0 0; /* Rounded corners for the upper part */
+  }
+  .frame-60::after {
+    content: "";
+    position: absolute;
+    bottom: 0; /* Place it at the bottom by adjusting the offset */
+    top: 9.26cm;
+    left: -0.5cm; /* Increase the left offset by 0.5 cm */
+    width: calc(100% + 39px); /* Increase the width by 1 cm */
+    height: 3cm; /* Set the height of the yellow area */
+    background-color: #52B14A; /* Set the background color to yellow */
+    border-radius: 0 0 10px 10px; /* Rounded corners for the bottom part */
+  }
+  
+  .sltmobitel-logo-container {
+    float: left; /* Float the logo to the left */
+    margin-right: 20px; /* Add margin to the right to create space between the image and the rectangle frame */
+  }
+  .rectangle-frame {
+    background-color: #ffffff; /* Background color of the rectangle */
+    border: 1px solid #000000; /* Border color and thickness */
+    padding: 20px; /* Padding inside the rectangle */
+    width: 300px; /* Width of the rectangle */
+    
+  }
+  
+  .rectangle-frame h2 {
+    font-size: 19px; /* Font size of the header */
+    margin-bottom: 10px; /* Bottom margin of the header */
+    padding-left: 20px;
+    color: #003E81; /* Change the color as needed */
+    font-family: 'Poppins';
+  
+  }
+  
+  .rectangle-frame p {
+    font-size: 15px;
+    margin: 5px 0; /* Margin for paragraphs */
+    padding-left: 20px;
+    color: #003E81; /* Change the color as needed */
+    font-family: 'Poppins';
+  }
+
+ 
+ 
+
+  
+
+  .button-container {
+    display: flex;
+    justify-content: space-between; /* Align buttons to each end */
+    margin-top: 1cm; /* Adjust as needed */
+  }
+  
+  .pay-button,
+  .cancel-button {
+    padding: 10px 20px; /* Adjust padding as needed */
+    font-size: 16px; /* Adjust font size as needed */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .pay-button {
+    background-color: #52B14A; /* Green background color for Pay Now button */
+    color: white; /* White text color for Pay Now button */
+    font-family: 'Poppins';
+    font-size: 15px;
+  }
+  
+  .cancel-button {
+    background-color: #6bb664; /* Blue background color for Cancel button */
+    color: white; /* White text color for Cancel button */
+    font-family: 'Poppins';
+    font-size: 15px;
+    margin-right: 1.5cm;
+  }
+  .pay-button:active,
+  .cancel-button:active {
+    opacity: 0.8; /* Reduce opacity when button is clicked */
+  }
+  
+  
+  .paynow {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 18px;
+    color: #ffffff;
+  }
+
+  .paynow:hover{
+    color: #00BBF6;
+  }
+
+  .form-group{
+    margin-left: 8px;
+    
+  }
